@@ -1,0 +1,21 @@
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\bin\Debug\Product Catalog User Interface.exe.config
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\bin\Debug\Product Catalog User Interface.exe
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\bin\Debug\Product Catalog User Interface.pdb
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\WindowsApplication_cs.ModelNumberForm.resources
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product_Catalog_User_Interface.MainWindow.resources
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product_Catalog_User_Interface.Properties.Resources.resources
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product Catalog User Interface.csproj.GenerateResource.Cache
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product Catalog User Interface.exe
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product Catalog User Interface.pdb
+C:\Users\User1\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product Catalog User Interface.csprojResolveAssemblyReference.cache
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\bin\Debug\Product Catalog User Interface.exe.config
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\bin\Debug\Product Catalog User Interface.exe
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\bin\Debug\Product Catalog User Interface.pdb
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product Catalog User Interface.csprojResolveAssemblyReference.cache
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\WindowsApplication_cs.ModelNumberForm.resources
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product_Catalog_User_Interface.MainWindow.resources
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product_Catalog_User_Interface.Properties.Resources.resources
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product Catalog User Interface.csproj.GenerateResource.Cache
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product Catalog User Interface.exe
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product Catalog User Interface.pdb
+C:\Users\Rex\Documents\Visual Studio 2017\Projects\Product Catalog User Interface\Product Catalog User Interface\obj\Debug\Product_Catalog_User_Interface.CategoryAdder.resources
